@@ -24,3 +24,5 @@ LSM:Register ("font", "- BOLTZZ", [[Interface\Addons\SharedMedia_FafnyirUI\fonts
 --   STATUSBAR
 -- -----
 LSM:Register("statusbar", "- FafnyirUI Clean", [[Interface\Addons\SharedMedia_FafnyirUI\statusbar\Clean.tga]])
+LSM:Register("statusbar", "- FafnyirUI Gradient", [[Interface\Addons\SharedMedia_FafnyirUI\statusbar\Gradient.tga]])
+LSM:Register("statusbar", "- FafnyirUI Half", [[Interface\Addons\SharedMedia_FafnyirUI\statusbar\Half.tga]])
