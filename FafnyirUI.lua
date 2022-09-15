@@ -1,6 +1,4 @@
-local LSM = LibStub("LibSharedMedia-3.0")
-
-if LSM == nil then return end
+local LSM = LibStub("LibSharedMedia-3.0") 
 
 -- ----- 
 -- BACKGROUND 
@@ -19,6 +17,7 @@ LSM:Register ("font", "-FafnyirUI", [[Interface\Addons\SharedMedia_FafnyirUI\fon
 LSM:Register ("font", "-FafnyirUI_Bold", [[Interface\Addons\SharedMedia_FafnyirUI\fonts\Urbanist-Bold.ttf]])
 LSM:Register ("font", "-FafnyirUI_Black", [[Interface\Addons\SharedMedia_FafnyirUI\fonts\Urbanist-Black.ttf]])
 LSM:Register ("font", "- BOLTZZ", [[Interface\Addons\SharedMedia_FafnyirUI\fonts\BOLTZZ.ttf]])
+LSM:Register ("font", "- Barlow", [[Interface\Addons\SharedMedia_FafnyirUI\fonts\Barlow.ttf]])
 --   SOUND
 -- -----
 
